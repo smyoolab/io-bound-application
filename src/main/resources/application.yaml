@@ -10,6 +10,6 @@ spring:
       ddl-auto: update
   rabbitmq:
     host: 10.146.0.2
-    user: quest
+    user: guest
     password: guest
     port: 5672
